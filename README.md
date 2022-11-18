@@ -9,3 +9,5 @@ JavaScript algorithms and data structures
 // Find the Longest Word in a String
 
 // Return Largest Numbers in Arrays
+
+// Repeat a String
