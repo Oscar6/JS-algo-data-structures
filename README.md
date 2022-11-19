@@ -11,3 +11,5 @@ JavaScript algorithms and data structures
 // Return Largest Numbers in Arrays
 
 // Repeat a String
+
+// Truncate a String
