@@ -15,3 +15,5 @@ JavaScript algorithms and data structures
 // Truncate a String
 
 // Find Element
+
+// TypeOf Boolean
