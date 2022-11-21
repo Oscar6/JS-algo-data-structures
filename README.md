@@ -13,3 +13,5 @@ JavaScript algorithms and data structures
 // Repeat a String
 
 // Truncate a String
+
+// Find Element
