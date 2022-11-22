@@ -17,3 +17,5 @@ JavaScript algorithms and data structures
 // Find Element
 
 // TypeOf Boolean
+
+// Title Case a Sentence
