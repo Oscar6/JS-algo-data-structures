@@ -19,3 +19,5 @@ JavaScript algorithms and data structures
 // TypeOf Boolean
 
 // Title Case a Sentence
+
+// Slice and Splice
