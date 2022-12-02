@@ -8,4 +8,4 @@ function booWho(bool) {
 
 booWho(null);
 
-// test
+// testing
