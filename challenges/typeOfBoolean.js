@@ -7,5 +7,3 @@ function booWho(bool) {
 }
 
 booWho(null);
-
-// testing
