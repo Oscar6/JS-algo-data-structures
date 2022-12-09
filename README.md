@@ -21,3 +21,5 @@ JavaScript algorithms and data structures
 // Title Case a Sentence
 
 // Slice and Splice
+
+// Falsy Bouncer
